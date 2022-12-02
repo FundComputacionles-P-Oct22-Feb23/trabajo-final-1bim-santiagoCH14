@@ -1,0 +1,14 @@
+1.Inicio
+2.Se crea una variable "traje"
+3.Se crea una variable "precio unitario" 
+4.Se crea una variable "subtotal" 
+5.Se crea una variable "total"
+6.Se crea una variable "descuento" 
+7.Se pide ingresar la cantidad de trajes adquiridos
+8.Se pide ingresar el precio unitario del traje
+9.Si el traje es igual a 1 entonces el descuento sera del 20 por ciento y el subtotal tendra el precio unitario y el total sera igual al valor del precio unitario por el descuento y dividido para 100
+10.En caso contrario si el traje es igual a 2 el descuento sera del 25 por ciento y el subtotal tendra el precio unitario y el total sera igual al valor del precio unitario por el descuento y dividido para 100
+11.Si el traje es igual a 3 descuento sera del 40 por ciento y el subtotal tendra el precio unitario y el total sera igual al valor del precio unitario por el descuento y dividido para 100
+12.En caso contrario si el traje es mayor a 3 el descuento sera del 50 por ciento y el subtotal tendra el precio unitario y el total sera igual al valor del precio unitario por el descuento y dividido para 100
+13.Al terminar el ciclo se mostrara el mensaje en pantalla
+14.Fin

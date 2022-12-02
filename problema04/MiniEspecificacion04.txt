@@ -1,0 +1,45 @@
+1. Inicio
+2. numero1, i[0-n]
+3. numero2, i[0-n]
+4. numero3, i[0-n]
+5. numero_mayor,i[0-n]
+6. << "Ingrese un numero"
+7. >>numero1
+8. << "Ingrese un numero"
+9. >>numero2
+10. << "Ingrese un numero"
+11. >>numero3
+12. Si numero1 ==  numero2 entonces 
+13.           <<"Error. Intende de nuevo"
+14.           <<"Ingrese un número"
+15.           >> numero1
+16. De lo contrario 
+17.           Si numero2 ==  numero3 entonces 
+18.                      <<"Error. Intende de nuevo"
+19.                      <<"Ingrese un número"
+20.                      >> numero2
+21.           De lo contrario
+22.                      Si numero1 ==  numero3 entonces 
+23.                                <<"Error. Intende de nuevo"
+24.                                <<"Ingrese un número"
+25.                                >> numero3 
+26.                      FinSi
+27.           FinSi
+28. FinSi
+29. Si numero1 >  numero2 entonces 
+30.               numero_mayor <-- numero1
+31. De lo contrario 
+32.               numero_mayor <-- numero2
+33. FinSi
+34. Si numero_mayor > numero3 entonces 
+35.      numero_mayor = numero_mayor              
+36. De lo contrario 
+37.      numero_mayor <-- numero3
+38. FinSi
+39. << " El numero mayor es " + numero_mayor
+40. FIN
+
+
+
+
+

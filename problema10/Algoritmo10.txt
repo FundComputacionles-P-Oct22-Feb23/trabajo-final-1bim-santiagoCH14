@@ -1,0 +1,10 @@
+1. Inicio
+2. Entrar en un ciclo repetitivo donde podamos preguntar las veces que el usuario decida lo siguiente:
+3. Pedir un numero
+4. Guardar el numero que el usuario ingreso 
+5. Sumamos el numero ingresado con el actual valor de suma
+6. Preguntamos a usuario si decea continuar con el programa
+7. Si su respuesta es positiva volvemos a iniciar el ciclo de repeticion, caso contrario lo terminamos.
+8. Calculamos la media que es igual a la suma de todos los datos ingresado dividido para la cantidad de veces que el usuario realizo el ciclo repetitivo.
+9. Imprimimos en pantalla la media de los datos ingresados.
+10. Fin

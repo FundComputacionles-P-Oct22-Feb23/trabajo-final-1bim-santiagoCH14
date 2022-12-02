@@ -1,0 +1,22 @@
+1. Inicio
+2. angulo, d[0 - n]
+3. x(500)[{a-z}, {A-Z},{BS}] <-- " "
+4. contador, i(0-n) <-- 0
+5. Mientras contador < 3 entonces 
+6.         <<"Ingrese el tamaño del ángulo"
+7.         >>angulo
+8.         contador <-- contador + 1
+9.         Si angulo == 90 entonces
+10.                      acumulador <-- acumulador + "El ángulo tiene un tamaño de " + angulo + "\t" + "por lo tanto es un ángulo recto" + "\n"
+11.        De lo contrario 
+12.                     Si (angulo > 90 && angulo < 180) entonces
+13.                               acumulador <-- acumulador + "El ángulo tiene un tamaño de " + angulo + "\t" + "por lo tanto es un ángulo obtusángulo" + "\n"
+14.                     De lo contrario 
+15.                               Si angulo < 90 entonces
+16.                               acmulador <-- acumulador + "El ángulo tiene un tamaño de " + angulo + "\t" + "por lo tanto es un ángulo acutángulo" + "\n"
+17.                               FinSi
+18.                    FinSi
+19.        FinSi
+20. FinMientras
+22. <<mensaje
+23.FIN

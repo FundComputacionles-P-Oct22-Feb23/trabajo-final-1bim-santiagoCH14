@@ -1,0 +1,7 @@
+1.Inicio
+2.Se crea una variable "mensaje" con una cadena vacia
+3.Se crea una variable "contador" con valor en 1 
+4.Mientras el contador sea menor a 101 el mensaje sera igual al valor que tenga mensaje en ese momento y se le sumará "+1/" y el contador
+5.Al contador se le sumará 1
+6.Al acabar el ciclo se imprimirá el mensaje en pantalla 
+7.Fin

@@ -1,0 +1,35 @@
+1. Inicio
+2. traje, i[0 - n]
+3. precio_unitario, d[0 - n]
+4. subtotal, d[0 - n]
+5. total, d[0 - n]
+6. descuento, i[0 - n]
+7. <<"Ingrese la cantidad de trajes adquiridos"
+8. >>traje
+9. <<"Ingrese el precio unitario del traje"
+10. >>precio_unitario
+11.Si traje es == 1 entonces 
+12.       descuento <-- 20
+13        subtotal <-- precio_unitario 
+14.       total <-- (precio_unitario * descuento) / 100
+15. De lo contrario
+16.       Si traje == 2 entonces
+17.                 descuento <-- 25
+18.                 subtotal <-- precio_unitario *traje
+19.                 total <-- (precio_unitario * descuento) / 100
+20.        De lo contrario
+21.                 Si traje == 3 entonces
+22.                           descuento <-- 40
+23.                           subtotal <-- precio_unitario *traje
+24.                           total <-- (precio_unitario * descuento) / 100
+25.                  De lo contrario
+26.                           Si traje > 3 entonces
+27.                                    descuento <-- 50
+28.                                    subtotal <-- precio_unitario *traje
+29.                                    total <-- (precio_unitario * descuento) / 100
+30.                            FinSi
+31.                   FinSi
+32.       Fin Si
+33. FinSi
+34. <<"Trajes comprados:  " + traje + "\n" + "El precio unitario es de:  " + precio_unitario + "\n" + "Subtotal:  " + subtotal + "\n" + "El descuento es de:  " + descuento + "\n" + "Total:  " + total + "\n"
+35. FIN

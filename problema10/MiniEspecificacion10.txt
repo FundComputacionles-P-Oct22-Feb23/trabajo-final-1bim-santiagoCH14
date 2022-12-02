@@ -1,0 +1,23 @@
+1. Inicio
+2. numero, i[0-n] 
+3. suma, i[0-n] <-- 0
+4. contador, i(0-n) <--0
+5. bandera, l <-- true
+6. salir, i[0-n]
+7. media, i[0-n]
+8. indorme, x(300)[{a-z}, {A-Z}, {BS}] <-- "La media es igual a "
+9. Mientras (bandera) entonces 
+10.       <<"Ingrese un número" 
+11.       >>numero              
+12.       suma <-- suma + numero   
+13.       contador <-- concontador +1          
+14.       <<"Ingrese 1 para salir" 
+15.       >>salir     
+16.       Si salir == 1 entonces 
+17.                bandera <-- false
+18.       FinSi
+19. FinMientras
+20. media <-- suma/contador
+21. informe <-- informe + media
+22. <<informe
+23. Fin 

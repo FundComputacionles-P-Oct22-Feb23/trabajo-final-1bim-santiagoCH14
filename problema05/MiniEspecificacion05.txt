@@ -1,0 +1,35 @@
+1.Inicio
+2.x , i[0-n]
+3.y , i[0-n]
+4.Escribir "Ingrese el valor de x: "
+5.Leer x
+6.Escribir "Ingrese el valor de y: "
+7.Leer y 
+8.Si x > 0 AND y > 0 entonces
+9.        Escribir "El punto " + x + ", " + y + " se encuentra en el primer cuadrante."
+10.De lo contrario
+11.      Si x < 0 AND y > 0 entonces 
+12.           Escribir "El punto " + x + ", " + y + " se encuentra en el segundo cuadrante."
+13.      De lo contrario 
+14.           Si x < 0 AND y < 0 entonces
+15.                Escribir "El punto " + x + ", " + y + " se encuentra en el tercer cuadrante."
+16.           De lo contrario
+17.                Si x > 0 AND y < 0 entonces 
+18.                     Escribir "El punto " + x + ", " + y + " se encuentra en el cuarto cuadrante."
+19.                De lo contrario
+20.                     Si x == 0 AND y == 0 entonces
+21.                          Escribir "El punto " + x + ", " + y + " se encuentra en el origen."
+22.                     De lo contrario
+23.                          Si x == 0 AND y != 0 entonces
+24.                               Escribir "El punto " + x + ", " + y + " se encuentra sobre el eje Y."
+25.                          De lo contrario
+26.                                Si x != 0 AND y == 0 entonces
+27.                                    Escribir "El punto " + x + ", " + y + " se encuentra sobre el eje X."
+28.                                FinSi
+29.                          FinSi
+30.                     FinSi
+31.                FinSi
+32.           FinSi
+33.      FinSi
+34.FinSi
+35.Fin

@@ -1,0 +1,17 @@
+1. Inicio
+2. once, i[0-n] <-- 0
+3. doce, i[0-n] <-- 0
+4. mensaje, x(300)[{a-z}, {A-Z}, {BS}] <-- "S1 = 12"
+5. contador, i(0-n) <--1
+6. Mientras contador <=7 entonces 
+7.        Si contador %2 != 0 entonces 
+8.                 once <-- once +11
+9.                 mensaje <-- menensaje + "-" + once
+10.       De lo contrario
+11.                doce <-- doce + 12
+12.                mensaje <-- mensaje + "+" + doce
+13.       FinSi
+14.       contador <-- concontador +1
+15. FinMientras
+16. <<mensaje
+17. Fin

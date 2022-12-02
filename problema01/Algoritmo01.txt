@@ -1,0 +1,12 @@
+1.Inicio
+2.Se crea una variable "ángulo"
+3.Se crea una variable "acumulador" con cadena vacia
+4.Se crea una variable "contador" con valor de 0
+5.Mientras el contador sea menor a 3 permanece en el ciclo
+6.Se pide ingresar el tamaño del ángulo
+7.Al contador se le sumara +1
+8.Si el ángulo es igual a 90 al acumulador se le sumara "El ángulo tiene un tamaño de" y el angulo y se le sumara "por lo tanto es un ángulo recto"
+9.En caso contrario si el ángulo es mayor a 90 y menor a 180 al acumulador se el sumara "El ángulo tiene un tamaño de" y el angulo y se le sumara "por lo tanto es un ángulo obtusángulo"
+10.Si el ángulo es menor a 90al acumulador se el sumara "El ángulo tiene un tamaño de" y el angulo y se le sumara "por lo tanto es un ángulo acutángulo"
+11.Al finalizar el ciclo se imprimirá el mensaje en pantalla 
+11.Fin

@@ -1,0 +1,13 @@
+1.Inicio
+2.Se crea una variable "X" 
+3.Se crea una variable "Y" 
+4.Se pide ingresar el valor de x
+5.Se pide ingresar el valor de y
+6.Si  x > 0 && y > 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra en el primer cuadrante."
+7.En caso contrario si x < 0 && y > 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra en el segundo cuadrante."
+8.Si x < 0 && y < 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra en el tercer cuadrante."
+9.En caso contrario si x > 0 && y < 0  se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra en el cuarto cuadrante."
+10.Si x == 0 && y == 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra en el origen."
+11.En caso contrario x == 0 && y != 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra sobre el eje Y."
+12.Si x != 0 && y == 0 se imprimirá "El punto" mas el valor que x tenga en ese momento y el valor que y tenga en ese momento y "se encuentra sobre el eje x."
+13.Fin
